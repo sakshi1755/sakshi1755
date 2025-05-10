@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning ** AI/ML, OpenCV, TensorFlow, and Advanced React Patterns, Blockchain**
+- 🌱 I’m currently learning **AI/ML, OpenCV, TensorFlow, and Advanced React Patterns, Blockchain**
 
 - 👨‍💻 All of my projects are available at [https://github.com/sakshi1755](https://github.com/sakshi1755)
 

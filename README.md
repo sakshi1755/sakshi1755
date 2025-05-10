@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **BLOCKCHAIN, AI/ML, OpenCV, TensorFlow, and Advanced React Patterns,BLOCKCHAIN**
+- 🌱 I’m currently learning ** AI/ML, OpenCV, TensorFlow, and Advanced React Patterns, Blockchain**
 
 - 👨‍💻 All of my projects are available at [https://github.com/sakshi1755](https://github.com/sakshi1755)
 
-- 💬 Ask me about **REACT, MONGODB,EXPRESS, NODE**
+- 💬 Ask me about **react, MongoDB ,Express, Node**
 
 - 📫 How to reach me **sakshi.s.jadhav1755@gmail.com**
 
